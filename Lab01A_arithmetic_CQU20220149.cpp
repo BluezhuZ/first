@@ -12,7 +12,7 @@ using namespace std;
 
 int main(){
     cout<<setprecision(1)<<setfill(' ')<<fixed;
-    int A;
+    int A;   %?????????%
     int B;
     cout << "Enter A: ";
     cin >> A;
